@@ -1,0 +1,12 @@
+.modal-container {
+    padding: 1px;
+    width: 250px;
+}
+
+.modal-dialog {
+    padding: 0;
+}
+
+.modal-dialog::backdrop {
+    background-color: rgba(180, 18, 18, 0.24);
+}
